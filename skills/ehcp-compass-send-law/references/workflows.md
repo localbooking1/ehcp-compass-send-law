@@ -22,7 +22,7 @@ Read the applicable procedure; choose the correct respondent and route. Distingu
 Identify school type, age, decision maker and forum first. Avoid assuming an EHCP is necessary for all equality or transport rights. Do not equate a school refusal with lawful exclusion. Check current guidance, statutes, remedies and deadlines independently for each issue.
 
 ## Data and case materials
-Distinguish the child's personal-data rights, an authorised representative's request and separate parental education-record rights. Check current ICO guidance and amended data legislation. Use minimum necessary data, redact identifiers in examples, and do not send family details in public search queries. A SAR must not be assumed to pause an appeal deadline.
+Distinguish the child's personal-data rights, an authorised representative's request and separate parental education-record rights. Check current ICO guidance and amended data legislation. For SAR timing, explicitly check Data (Use and Access) Act 2025 section 76 and SI 2026/82 regulations 2(h) and 4: request receipt date determines the saving, and identity, permitted fees, clarification and extension conditions may affect the clock. See the dated audit; do not calculate a deadline from this summary alone. Use minimum necessary data, redact identifiers in examples, and do not send family details in public search queries. A SAR must not be assumed to pause an appeal deadline.
 
 ## Final audit
 Review whether each legal claim is supported by a source actually read, each date has an evidenced trigger, each case is checked beyond its name, and each allegation is properly attributed. If the current-law gate fails, supply a factual draft with clear unresolved points rather than a purportedly final legal opinion.

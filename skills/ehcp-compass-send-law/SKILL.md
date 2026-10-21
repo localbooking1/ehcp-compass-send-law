@@ -3,7 +3,7 @@ name: ehcp-compass-send-law
 description: Research and explain England SEND and EHCP law, review plans and evidence, and draft requests, complaints or appeal preparation with current official-source verification. Covers related education, disability, transport, health, social care and data-rights issues. Not a substitute for a qualified legal adviser or a UK-wide law guide.
 metadata:
   author: EHCP Compass
-  version: 0.1.0
+  version: 0.2.0
 ---
 
 # EHCP Compass — SEND Law for England
@@ -16,9 +16,13 @@ For cross-border matters distinguish residence, education location and the respo
 
 Read [the coverage map](references/coverage.md) and only the relevant workflows. For every substantive legal answer follow [verification](references/verification.md). Use [official source entry points](references/sources.json) to find the exact current provision or paragraph; never cite an entry point as if it proves a detailed claim.
 
+Read [the dated source audit](references/dated-audit.md) for confirmed reference points, current-publication warnings and unresolved limits. Its findings are a historical research record, never a substitute for the following gate.
+
 ## Mandatory verification gate
 
 Scope statements and research-routing questions do not themselves certify substantive law. Before quoting, paraphrasing or applying a legal proposition, retrieve and read its official primary source during this task. Verify jurisdiction, commencement, amendments, repeals, transitional provisions and the version applicable to the events. Check the current position separately where it differs. Record the actual date accessed; do not reuse a package build date as verification.
+
+For a claim about binding law, an official guidance page alone is insufficient; retrieve the operative legislation or judgment.
 
 Do not treat a search snippet, model memory, a live URL, an old PDF or an unexamined citation as verification. If browsing is unavailable, a source cannot be read, or amendment/commencement status is unresolved, say **NOT VERIFIED — current legal position not confirmed**. Omit that proposition from send-ready advice or mark the document as an incomplete draft. You can still organise facts and questions. Never invent quotations, sections, cases, deadlines or authority.
 

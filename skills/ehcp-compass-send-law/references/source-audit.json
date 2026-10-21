@@ -1,0 +1,516 @@
+{
+  "audit_date": "2026-10-21",
+  "scope": "All 23 original entry points inspected; supplementary pinpoint sources. This is not whole-law certification. Publication landing pages do not verify all linked PDFs.",
+  "records": [
+    {
+      "id": "CFA",
+      "url": "https://www.legislation.gov.uk/ukpga/2014/6/contents",
+      "accessed": "2026-10-21",
+      "method": "Firecrawl scrape",
+      "http_status": 200,
+      "returned_url": "https://www.legislation.gov.uk/ukpga/2014/6/contents",
+      "cache_state": "hit",
+      "cached_at": "2026-10-20T19:38:31.685Z",
+      "sha256_markdown": "c3ef22635eb16e541ef8a88a40fb17a4188021c8c83a61f45f73073fcc857a09",
+      "review_scope": "Source identity, scope and currency notice; not every provision or linked document",
+      "status_notices": [
+        "Children and Families Act 2014 is up to date with all changes known to be in force on or before 20 October 2026. There are changes that may be brought into force at a future date. [![ Help about Changes to Legislation](https://www.legislation.gov.uk/images/chrome/helpIcon.gif)](https://www.legislation.gov.uk/ukpga/2014/6/contents#Scenario5Help)"
+      ],
+      "retrieval_result": "CONTENT_RETRIEVED"
+    },
+    {
+      "id": "SEND-REGS",
+      "url": "https://www.legislation.gov.uk/uksi/2014/1530/contents",
+      "accessed": "2026-10-21",
+      "method": "Firecrawl scrape",
+      "http_status": 200,
+      "returned_url": "https://www.legislation.gov.uk/uksi/2014/1530/contents",
+      "cache_state": null,
+      "cached_at": null,
+      "sha256_markdown": "a4179e996af6fef5d377dba87dcfcc6b51c48c7e4b6b23ab06d2016484637f3c",
+      "review_scope": "Source identity, scope and currency notice; not every provision or linked document",
+      "status_notices": [
+        "There are currently no known outstanding effects for The Special Educational Needs and Disability Regulations 2014. [![ Help about Changes to Legislation](https://www.legislation.gov.uk/images/chrome/helpIcon.gif)](https://www.legislation.gov.uk/uksi/2014/1530/contents#Scenario1Help)"
+      ],
+      "retrieval_result": "CONTENT_RETRIEVED"
+    },
+    {
+      "id": "EDUCATION",
+      "url": "https://www.legislation.gov.uk/ukpga/1996/56/contents",
+      "accessed": "2026-10-21",
+      "method": "Firecrawl scrape",
+      "http_status": 200,
+      "returned_url": "https://www.legislation.gov.uk/ukpga/1996/56/contents",
+      "cache_state": null,
+      "cached_at": null,
+      "sha256_markdown": "105e5b4cb27f7ada9e13ddfe957d7ba688460c7014db428aff13cf701d43352b",
+      "review_scope": "Source identity, scope and currency notice; not every provision or linked document",
+      "status_notices": [
+        "Education Act 1996 is up to date with all changes known to be in force on or before 20 October 2026. There are changes that may be brought into force at a future date. [![ Help about Changes to Legislation](https://www.legislation.gov.uk/images/chrome/helpIcon.gif)](https://www.legislation.gov.uk/ukpga/1996/56/contents#Scenario5Help)"
+      ],
+      "retrieval_result": "CONTENT_RETRIEVED"
+    },
+    {
+      "id": "EQUALITY",
+      "url": "https://www.legislation.gov.uk/ukpga/2010/15/contents",
+      "accessed": "2026-10-21",
+      "method": "Firecrawl scrape",
+      "http_status": 200,
+      "returned_url": "https://www.legislation.gov.uk/ukpga/2010/15/contents",
+      "cache_state": "hit",
+      "cached_at": "2026-10-20T19:38:54.417Z",
+      "sha256_markdown": "607851afde59e3b00ec3e7f76bc9b05a7af205992967589974d50d2a6b7a3e6e",
+      "review_scope": "Source identity, scope and currency notice; not every provision or linked document",
+      "status_notices": [
+        "Equality Act 2010 is up to date with all changes known to be in force on or before 18 October 2026. There are changes that may be brought into force at a future date. [![ Help about Changes to Legislation](https://www.legislation.gov.uk/images/chrome/helpIcon.gif)](https://www.legislation.gov.uk/ukpga/2010/15/contents#Scenario5Help)"
+      ],
+      "retrieval_result": "CONTENT_RETRIEVED"
+    },
+    {
+      "id": "CHILDREN",
+      "url": "https://www.legislation.gov.uk/ukpga/1989/41/contents",
+      "accessed": "2026-10-21",
+      "method": "Firecrawl scrape",
+      "http_status": 200,
+      "returned_url": "https://www.legislation.gov.uk/ukpga/1989/41/contents",
+      "cache_state": null,
+      "cached_at": null,
+      "sha256_markdown": "8cb2230d360a003b6e71a215753b4f0f391f4529ff29b19d481516f8eb954b2a",
+      "review_scope": "Source identity, scope and currency notice; not every provision or linked document",
+      "status_notices": [
+        "Children Act 1989 is up to date with all changes known to be in force on or before 21 October 2026. There are changes that may be brought into force at a future date. [![ Help about Changes to Legislation](https://www.legislation.gov.uk/images/chrome/helpIcon.gif)](https://www.legislation.gov.uk/ukpga/1989/41/contents#Scenario5Help)"
+      ],
+      "retrieval_result": "CONTENT_RETRIEVED"
+    },
+    {
+      "id": "CSDPA",
+      "url": "https://www.legislation.gov.uk/ukpga/1970/44/contents",
+      "accessed": "2026-10-21",
+      "method": "Firecrawl scrape",
+      "http_status": 200,
+      "returned_url": "https://www.legislation.gov.uk/ukpga/1970/44/contents",
+      "cache_state": "miss",
+      "cached_at": null,
+      "sha256_markdown": "1fa95798c693a2f7b14a8592617e15ef1ca4e9383dfa06e65d213aada78325e8",
+      "review_scope": "Source identity, scope and currency notice; not every provision or linked document",
+      "status_notices": [
+        "Chronically Sick and Disabled Persons Act 1970 is up to date with all changes known to be in force on or before 18 October 2026. There are changes that may be brought into force at a future date. [![ Help about Changes to Legislation](https://www.legislation.gov.uk/images/chrome/helpIcon.gif)](https://www.legislation.gov.uk/ukpga/1970/44/contents#Scenario5Help)"
+      ],
+      "retrieval_result": "CONTENT_RETRIEVED"
+    },
+    {
+      "id": "CARE",
+      "url": "https://www.legislation.gov.uk/ukpga/2014/23/contents",
+      "accessed": "2026-10-21",
+      "method": "Firecrawl scrape",
+      "http_status": 200,
+      "returned_url": "https://www.legislation.gov.uk/ukpga/2014/23/contents",
+      "cache_state": "hit",
+      "cached_at": "2026-10-20T19:58:21.861Z",
+      "sha256_markdown": "4b1a067adba1cc504f6e5be76a273649dd503fefec4dbe523165da53ef44d812",
+      "review_scope": "Source identity, scope and currency notice; not every provision or linked document",
+      "status_notices": [
+        "Care Act 2014 is up to date with all changes known to be in force on or before 20 October 2026. There are changes that may be brought into force at a future date. [![ Help about Changes to Legislation](https://www.legislation.gov.uk/images/chrome/helpIcon.gif)](https://www.legislation.gov.uk/ukpga/2014/23/contents#Scenario5Help)"
+      ],
+      "retrieval_result": "CONTENT_RETRIEVED"
+    },
+    {
+      "id": "CAPACITY",
+      "url": "https://www.legislation.gov.uk/ukpga/2005/9/contents",
+      "accessed": "2026-10-21",
+      "method": "Firecrawl scrape",
+      "http_status": 200,
+      "returned_url": "https://www.legislation.gov.uk/ukpga/2005/9/contents",
+      "cache_state": "hit",
+      "cached_at": "2026-10-20T19:38:00.907Z",
+      "sha256_markdown": "3d8b7d64992cb25bbec2e5ac222198668c52a54da231a3bbc8831e35fcfa1f12",
+      "review_scope": "Source identity, scope and currency notice; not every provision or linked document",
+      "status_notices": [
+        "Mental Capacity Act 2005 is up to date with all changes known to be in force on or before 20 October 2026. There are changes that may be brought into force at a future date. [![ Help about Changes to Legislation](https://www.legislation.gov.uk/images/chrome/helpIcon.gif)](https://www.legislation.gov.uk/ukpga/2005/9/contents#Scenario5Help)"
+      ],
+      "retrieval_result": "CONTENT_RETRIEVED"
+    },
+    {
+      "id": "DPA",
+      "url": "https://www.legislation.gov.uk/ukpga/2018/12/contents",
+      "accessed": "2026-10-21",
+      "method": "Firecrawl scrape",
+      "http_status": 200,
+      "returned_url": "https://www.legislation.gov.uk/ukpga/2018/12/contents",
+      "cache_state": null,
+      "cached_at": null,
+      "sha256_markdown": "249657acff6e015a047093c9001f997968130d33b93aec20b0324e1145a1832f",
+      "review_scope": "Source identity, scope and currency notice; not every provision or linked document",
+      "status_notices": [
+        "Data Protection Act 2018 is up to date with all changes known to be in force on or before 20 October 2026. There are changes that may be brought into force at a future date. [![ Help about Changes to Legislation](https://www.legislation.gov.uk/images/chrome/helpIcon.gif)](https://www.legislation.gov.uk/ukpga/2018/12/contents#Scenario5Help)"
+      ],
+      "retrieval_result": "CONTENT_RETRIEVED"
+    },
+    {
+      "id": "CODE",
+      "url": "https://www.gov.uk/government/publications/send-code-of-practice-0-to-25",
+      "accessed": "2026-10-21",
+      "method": "Firecrawl scrape",
+      "http_status": 200,
+      "returned_url": "https://www.gov.uk/government/publications/send-code-of-practice-0-to-25",
+      "cache_state": "hit",
+      "cached_at": "2026-10-20T10:29:49.531Z",
+      "sha256_markdown": "4c65fccdb80aeb45854acb401fee21ea6776199a8b52e7801f292887daa77279",
+      "review_scope": "Selected content read; see dated-audit.md for exact conclusions and limits",
+      "status_notices": [],
+      "retrieval_result": "CONTENT_RETRIEVED"
+    },
+    {
+      "id": "APPEAL",
+      "url": "https://www.gov.uk/appeal-ehc-plan-decision",
+      "accessed": "2026-10-21",
+      "method": "Firecrawl scrape",
+      "http_status": 200,
+      "returned_url": "https://www.gov.uk/appeal-ehc-plan-decision",
+      "cache_state": null,
+      "cached_at": null,
+      "sha256_markdown": "16ff35931114cc7522072405dc4d3f29c82809d15b3fc9903d797422f90e2a46",
+      "review_scope": "Selected content read; see dated-audit.md for exact conclusions and limits",
+      "status_notices": [],
+      "retrieval_result": "CONTENT_RETRIEVED"
+    },
+    {
+      "id": "EXTENDED",
+      "url": "https://www.gov.uk/government/publications/extended-powers-send-tribunal-national-trial",
+      "accessed": "2026-10-21",
+      "method": "Firecrawl scrape",
+      "http_status": 200,
+      "returned_url": "https://www.gov.uk/government/publications/extended-powers-send-tribunal-national-trial",
+      "cache_state": "miss",
+      "cached_at": null,
+      "sha256_markdown": "5b92c8b1b731788a3bd7c48ab95969dd464acbf57d2ccc95acb981534dbbd93f",
+      "review_scope": "Selected content read; see dated-audit.md for exact conclusions and limits",
+      "status_notices": [],
+      "retrieval_result": "CONTENT_RETRIEVED"
+    },
+    {
+      "id": "UT",
+      "url": "https://www.gov.uk/government/publications/appeal-a-send-tribunal-decision-send20",
+      "accessed": "2026-10-21",
+      "method": "Firecrawl scrape",
+      "http_status": 200,
+      "returned_url": "https://www.gov.uk/government/publications/appeal-a-send-tribunal-decision-send20",
+      "cache_state": "miss",
+      "cached_at": null,
+      "sha256_markdown": "03c8317190293e56f9895b2134f10f75cade8ed706d434bd0ef45358e34eb5d8",
+      "review_scope": "Selected content read; see dated-audit.md for exact conclusions and limits",
+      "status_notices": [],
+      "retrieval_result": "CONTENT_RETRIEVED"
+    },
+    {
+      "id": "TRAVEL",
+      "url": "https://www.gov.uk/government/publications/home-to-school-travel",
+      "accessed": "2026-10-21",
+      "method": "Firecrawl scrape",
+      "http_status": 200,
+      "returned_url": "https://www.gov.uk/government/publications/home-to-school-travel",
+      "cache_state": null,
+      "cached_at": null,
+      "sha256_markdown": "f6a6beded37a3b13c6ff0ebbfdd697152c0bb2255a43629fe01c175619be80a2",
+      "review_scope": "Selected content read; see dated-audit.md for exact conclusions and limits",
+      "status_notices": [],
+      "retrieval_result": "CONTENT_RETRIEVED"
+    },
+    {
+      "id": "POST16",
+      "url": "https://www.gov.uk/government/publications/post-16-transport-to-education-and-training",
+      "accessed": "2026-10-21",
+      "method": "Firecrawl scrape",
+      "http_status": 200,
+      "returned_url": "https://www.gov.uk/government/publications/post-16-transport-to-education-and-training",
+      "cache_state": "miss",
+      "cached_at": null,
+      "sha256_markdown": "3a159c4a1a930c6c3ab1d1b88dc31f43353bbe06b66456d91ec64cf4d3610f79",
+      "review_scope": "Selected content read; see dated-audit.md for exact conclusions and limits",
+      "status_notices": [],
+      "retrieval_result": "CONTENT_RETRIEVED"
+    },
+    {
+      "id": "EXCLUSION",
+      "url": "https://www.gov.uk/government/publications/school-suspensions-and-permanent-exclusions",
+      "accessed": "2026-10-21",
+      "method": "Firecrawl scrape",
+      "http_status": 200,
+      "returned_url": "https://www.gov.uk/government/publications/school-suspensions-and-permanent-exclusions",
+      "cache_state": null,
+      "cached_at": null,
+      "sha256_markdown": "77400385fba7d8fa4c03a108bbfaa48db430d3a24567094312b242c0732a93bf",
+      "review_scope": "Selected content read; see dated-audit.md for exact conclusions and limits",
+      "status_notices": [],
+      "retrieval_result": "CONTENT_RETRIEVED"
+    },
+    {
+      "id": "MEDICAL",
+      "url": "https://www.gov.uk/government/publications/supporting-pupils-at-school-with-medical-conditions--3",
+      "accessed": "2026-10-21",
+      "method": "Firecrawl scrape",
+      "http_status": 200,
+      "returned_url": "https://www.gov.uk/government/publications/supporting-pupils-at-school-with-medical-conditions--3",
+      "cache_state": null,
+      "cached_at": null,
+      "sha256_markdown": "2d57c4573d49da05945bc6974b0e1c468705ce5c0691ca15681f4f022d66e20a",
+      "review_scope": "Selected content read; see dated-audit.md for exact conclusions and limits",
+      "status_notices": [],
+      "retrieval_result": "CONTENT_RETRIEVED"
+    },
+    {
+      "id": "ICO",
+      "url": "https://ico.org.uk/for-organisations/uk-gdpr-guidance-and-resources/individual-rights/right-of-access/education-information/",
+      "accessed": "2026-10-21",
+      "method": "Firecrawl scrape",
+      "http_status": 200,
+      "returned_url": "https://ico.org.uk/for-organisations/uk-gdpr-guidance-and-resources/individual-rights/right-of-access/education-information/",
+      "cache_state": null,
+      "cached_at": null,
+      "sha256_markdown": "1889cbc0ed046300208a47c24fcb5a6fe7dc02aa498217d2fbfdebf470b2a4ff",
+      "review_scope": "Selected content read; see dated-audit.md for exact conclusions and limits",
+      "status_notices": [],
+      "retrieval_result": "CONTENT_RETRIEVED"
+    },
+    {
+      "id": "JR",
+      "url": "https://www.justice.gov.uk/courts/procedure-rules/civil/rules/part54",
+      "accessed": "2026-10-21",
+      "method": "Firecrawl scrape",
+      "http_status": 200,
+      "returned_url": "https://www.justice.gov.uk/courts/procedure-rules/civil/rules/part54",
+      "cache_state": null,
+      "cached_at": null,
+      "sha256_markdown": "a7c0b47aba1d82a81c512d8f9578869294c72ed97210857ebf31aa4fa930ca2b",
+      "review_scope": "Selected content read; see dated-audit.md for exact conclusions and limits",
+      "status_notices": [],
+      "retrieval_result": "CONTENT_RETRIEVED"
+    },
+    {
+      "id": "JR-PROTOCOL",
+      "url": "https://www.justice.gov.uk/courts/procedure-rules/civil/protocol/prot_jrv",
+      "accessed": "2026-10-21",
+      "method": "Firecrawl scrape",
+      "http_status": 200,
+      "returned_url": "https://www.justice.gov.uk/courts/procedure-rules/civil/protocol/prot_jrv",
+      "cache_state": null,
+      "cached_at": null,
+      "sha256_markdown": "dcab00a815b5696e51a5f22f70eb30a35ae422ca811a38c4d39c3224fe87db4d",
+      "review_scope": "Selected content read; see dated-audit.md for exact conclusions and limits",
+      "status_notices": [],
+      "retrieval_result": "CONTENT_RETRIEVED"
+    },
+    {
+      "id": "CASELAW",
+      "url": "https://caselaw.nationalarchives.gov.uk/",
+      "accessed": "2026-10-21",
+      "method": "Firecrawl scrape",
+      "http_status": 200,
+      "returned_url": "https://caselaw.nationalarchives.gov.uk/",
+      "cache_state": null,
+      "cached_at": null,
+      "sha256_markdown": "e45bb253267a284a545ae6d0cc5323fbd5e9d9efea3006bdffe09e8f64d48b47",
+      "review_scope": "Selected content read; see dated-audit.md for exact conclusions and limits",
+      "status_notices": [],
+      "retrieval_result": "CONTENT_RETRIEVED"
+    },
+    {
+      "id": "LGO",
+      "url": "https://www.lgo.org.uk/",
+      "accessed": "2026-10-21",
+      "method": "Firecrawl scrape",
+      "http_status": 200,
+      "returned_url": "https://www.lgo.org.uk/",
+      "cache_state": null,
+      "cached_at": null,
+      "sha256_markdown": "42745514cbd460f0f2e2343f8e35556129105a725a3349db349afd7f94fee575",
+      "review_scope": "Selected content read; see dated-audit.md for exact conclusions and limits",
+      "status_notices": [],
+      "retrieval_result": "CONTENT_RETRIEVED"
+    },
+    {
+      "id": "HMCTS-RULES",
+      "url": "https://www.gov.uk/government/publications/health-education-and-social-care-chamber-tribunal-rules",
+      "accessed": "2026-10-21",
+      "method": "Firecrawl scrape",
+      "http_status": 200,
+      "returned_url": "https://www.gov.uk/government/publications/health-education-and-social-care-chamber-tribunal-rules",
+      "cache_state": null,
+      "cached_at": null,
+      "sha256_markdown": "c814168559a63933458469dd8cddba5bfebaa4a234c54c1bcc5b4023074a624b",
+      "review_scope": "Selected content read; see dated-audit.md for exact conclusions and limits",
+      "status_notices": [],
+      "retrieval_result": "CONTENT_RETRIEVED"
+    },
+    {
+      "id": "CFA36",
+      "url": "https://www.legislation.gov.uk/ukpga/2014/6/section/36",
+      "accessed": "2026-10-21",
+      "method": "Firecrawl scrape",
+      "http_status": 200,
+      "returned_url": "https://www.legislation.gov.uk/ukpga/2014/6/section/36",
+      "cache_state": null,
+      "cached_at": null,
+      "sha256_markdown": "8252e8bf7fa6e1f760d7c0f8271a02633244e38d3229e15cae91f91744060441",
+      "review_scope": "Selected content read; see dated-audit.md for exact conclusions and limits",
+      "status_notices": [
+        "There are currently no known outstanding effects for the Children and Families Act 2014, Section 36. [![ Help about Changes to Legislation](https://www.legislation.gov.uk/images/chrome/helpIcon.gif)](https://www.legislation.gov.uk/ukpga/2014/6/section/36#Scenario1Help)"
+      ],
+      "retrieval_result": "CONTENT_RETRIEVED"
+    },
+    {
+      "id": "CFA21",
+      "url": "https://www.legislation.gov.uk/ukpga/2014/6/section/21",
+      "accessed": "2026-10-21",
+      "method": "Firecrawl scrape",
+      "http_status": 200,
+      "returned_url": "https://www.legislation.gov.uk/ukpga/2014/6/section/21",
+      "cache_state": null,
+      "cached_at": null,
+      "sha256_markdown": "626390dba53c22636732731d025132f5098798904243bb09fb5403544db85856",
+      "review_scope": "Selected content read; see dated-audit.md for exact conclusions and limits",
+      "status_notices": [
+        "There are currently no known outstanding effects for the Children and Families Act 2014, Section 21. [![ Help about Changes to Legislation](https://www.legislation.gov.uk/images/chrome/helpIcon.gif)](https://www.legislation.gov.uk/ukpga/2014/6/section/21#Scenario1Help)"
+      ],
+      "retrieval_result": "CONTENT_RETRIEVED"
+    },
+    {
+      "id": "CFA37",
+      "url": "https://www.legislation.gov.uk/ukpga/2014/6/section/37",
+      "accessed": "2026-10-21",
+      "method": "Firecrawl scrape",
+      "http_status": 200,
+      "returned_url": "https://www.legislation.gov.uk/ukpga/2014/6/section/37",
+      "cache_state": null,
+      "cached_at": null,
+      "sha256_markdown": "1197361e7592d50d2ab87bc1e565f1036142e6174c91db15cea46bcf6472bf9c",
+      "review_scope": "Selected content read; see dated-audit.md for exact conclusions and limits",
+      "status_notices": [
+        "There are currently no known outstanding effects for the Children and Families Act 2014, Section 37. [![ Help about Changes to Legislation](https://www.legislation.gov.uk/images/chrome/helpIcon.gif)](https://www.legislation.gov.uk/ukpga/2014/6/section/37#Scenario1Help)"
+      ],
+      "retrieval_result": "CONTENT_RETRIEVED"
+    },
+    {
+      "id": "CFA42",
+      "url": "https://www.legislation.gov.uk/ukpga/2014/6/section/42",
+      "accessed": "2026-10-21",
+      "method": "Firecrawl scrape",
+      "http_status": 200,
+      "returned_url": "https://www.legislation.gov.uk/ukpga/2014/6/section/42",
+      "cache_state": null,
+      "cached_at": null,
+      "sha256_markdown": "0a2b46f19a142c4847b42c9eb72a93e921c1808d6db9db9a0b1fc4ce84a5dad1",
+      "review_scope": "Selected content read; see dated-audit.md for exact conclusions and limits",
+      "status_notices": [
+        "There are currently no known outstanding effects for the Children and Families Act 2014, Section 42. [![ Help about Changes to Legislation](https://www.legislation.gov.uk/images/chrome/helpIcon.gif)](https://www.legislation.gov.uk/ukpga/2014/6/section/42#Scenario1Help)"
+      ],
+      "retrieval_result": "CONTENT_RETRIEVED"
+    },
+    {
+      "id": "CFA45",
+      "url": "https://www.legislation.gov.uk/ukpga/2014/6/section/45",
+      "accessed": "2026-10-21",
+      "method": "Firecrawl scrape",
+      "http_status": 200,
+      "returned_url": "https://www.legislation.gov.uk/ukpga/2014/6/section/45",
+      "cache_state": null,
+      "cached_at": null,
+      "sha256_markdown": "946a5ab7a52bc702d4e9feb7fe0e00d9865e6661a28e95510993fc504ff70e35",
+      "review_scope": "Selected content read; see dated-audit.md for exact conclusions and limits",
+      "status_notices": [
+        "There are currently no known outstanding effects for the Children and Families Act 2014, Section 45. [![ Help about Changes to Legislation](https://www.legislation.gov.uk/images/chrome/helpIcon.gif)](https://www.legislation.gov.uk/ukpga/2014/6/section/45#Scenario1Help)"
+      ],
+      "retrieval_result": "CONTENT_RETRIEVED"
+    },
+    {
+      "id": "COMMENCEMENT",
+      "url": "https://www.legislation.gov.uk/uksi/2014/889/article/7",
+      "accessed": "2026-10-21",
+      "method": "Firecrawl scrape",
+      "http_status": 200,
+      "returned_url": "https://www.legislation.gov.uk/uksi/2014/889/article/7",
+      "cache_state": null,
+      "cached_at": null,
+      "sha256_markdown": "10a6416d799fef0d1497db0c5bdc616a9a4b9a84196254069252c90aa1ed7d85",
+      "review_scope": "Selected content read; see dated-audit.md for exact conclusions and limits",
+      "status_notices": [
+        "There are currently no known outstanding effects for The Children and Families Act 2014 (Commencement No. 2) Order 2014, Section 7. [![ Help about Changes to Legislation](https://www.legislation.gov.uk/images/chrome/helpIcon.gif)](https://www.legislation.gov.uk/uksi/2014/889/article/7#Scenario1Help)"
+      ],
+      "retrieval_result": "CONTENT_RETRIEVED"
+    },
+    {
+      "id": "GDPR12A",
+      "url": "https://www.legislation.gov.uk/eur/2016/679/article/12A",
+      "accessed": "2026-10-21",
+      "method": "Firecrawl scrape",
+      "http_status": 404,
+      "returned_url": "https://www.legislation.gov.uk/eur/2016/679/article/12A",
+      "cache_state": null,
+      "cached_at": null,
+      "sha256_markdown": "265f5463912795baa2d9dc6207b4d1346bc62d5301d6568c2a810acde12ba653",
+      "review_scope": "Selected content read; see dated-audit.md for exact conclusions and limits",
+      "status_notices": [],
+      "retrieval_result": "PAGE_NOT_FOUND \u2014 do not cite this URL"
+    },
+    {
+      "id": "HESC",
+      "url": "https://www.legislation.gov.uk/uksi/2008/2699/contents",
+      "accessed": "2026-10-21",
+      "method": "Firecrawl scrape",
+      "http_status": 200,
+      "returned_url": "https://www.legislation.gov.uk/uksi/2008/2699/contents",
+      "cache_state": null,
+      "cached_at": null,
+      "sha256_markdown": "634653521ef42519f133109baab1d470c814ea5515622cf88da981c676ffdf58",
+      "review_scope": "Source identity, scope and currency notice; not every provision or linked document",
+      "status_notices": [
+        "There are currently no known outstanding effects for The Tribunal Procedure (First-tier Tribunal) (Health,\u00a0Education\u00a0and\u00a0Social\u00a0Care\u00a0Chamber) Rules 2008. [![ Help about Changes to Legislation](https://www.legislation.gov.uk/images/chrome/helpIcon.gif)](https://www.legislation.gov.uk/uksi/2008/2699/contents#Scenario1Help)"
+      ],
+      "retrieval_result": "CONTENT_RETRIEVED"
+    },
+    {
+      "id": "REFORM",
+      "url": "https://www.gov.uk/government/consultations/send-reform-putting-children-and-young-people-first/send-reform-putting-children-and-young-people-first-html-version",
+      "accessed": "2026-10-21",
+      "method": "Firecrawl scrape",
+      "http_status": 200,
+      "returned_url": "https://www.gov.uk/government/consultations/send-reform-putting-children-and-young-people-first/send-reform-putting-children-and-young-people-first-html-version",
+      "cache_state": null,
+      "cached_at": null,
+      "sha256_markdown": "ddf0aeac33a3497e6eccb6178874d35cb73d920652ef8e85d10fc385aa66bb0b",
+      "review_scope": "Selected content read; see dated-audit.md for exact conclusions and limits",
+      "status_notices": [],
+      "retrieval_result": "CONTENT_RETRIEVED"
+    },
+    {
+      "id": "DUAA76",
+      "url": "https://www.legislation.gov.uk/ukpga/2025/18/section/76",
+      "accessed": "2026-10-21",
+      "method": "Firecrawl scrape",
+      "http_status": 200,
+      "returned_url": "https://www.legislation.gov.uk/ukpga/2025/18/section/76",
+      "cache_state": null,
+      "cached_at": null,
+      "sha256_markdown": "f045c47fffba564b118348ce9b6047437db33383b48a64b5fed8aa98618dc83b",
+      "review_scope": "Selected content read; see dated-audit.md for exact conclusions and limits",
+      "status_notices": [
+        "There are currently no known outstanding effects for the Data (Use and Access) Act 2025, Section 76. [![ Help about Changes to Legislation](https://www.legislation.gov.uk/images/chrome/helpIcon.gif)](https://www.legislation.gov.uk/ukpga/2025/18/section/76#Scenario1Help)"
+      ],
+      "retrieval_result": "CONTENT_RETRIEVED"
+    },
+    {
+      "id": "DUAA-COMMENCE",
+      "url": "https://www.legislation.gov.uk/uksi/2026/82",
+      "accessed": "2026-10-21",
+      "method": "Firecrawl scrape",
+      "http_status": 200,
+      "returned_url": "https://www.legislation.gov.uk/uksi/2026/82/made",
+      "cache_state": null,
+      "cached_at": null,
+      "sha256_markdown": "f3a60495dfb55a7b3cfb655b82a6335803255b0c89296671a5e0c840f615694e",
+      "review_scope": "Selected content read; see dated-audit.md for exact conclusions and limits",
+      "status_notices": [],
+      "retrieval_result": "CONTENT_RETRIEVED"
+    }
+  ]
+}

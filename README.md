@@ -1,6 +1,6 @@
 # EHCP Compass SEND Law — England
 
-An original, source-led AI skill by **EHCP Compass**, created with AI assistance. Version 0.1.0 is a research and drafting workflow for England's SEND/EHCP system and related issues. It is not an official publication, legal database or solicitor-reviewed legal opinion.
+An original, source-led AI skill by **EHCP Compass**, created with AI assistance. Version 0.2.0 is a research and drafting workflow for England's SEND/EHCP system and related issues. It is not an official publication, legal database or solicitor-reviewed legal opinion.
 
 ## What it does
 Routes assessment, plan review, provision, placement, annual review, transport, discrimination, health/social-care, transition, complaints and tribunal questions through official-source checks. An A–Z research map covers related issues and sets boundaries. Every material legal proposition must be checked against its exact current official source, with commencement/amendment status, event-date applicability and an access date. Unverified claims must be labelled and withheld from send-ready advice.
@@ -12,6 +12,9 @@ Download the release ZIP containing the `ehcp-compass-send-law` folder. In Claud
 
 ## Claude Code
 Copy `skills/ehcp-compass-send-law` to your user or project skills directory. Chat installation is separate from local Code installation.
+
+## October 2026 source audit
+Firecrawl was used to inspect all 23 original official entry points and additional pinpoint provisions. The release adds a dated audit, source provenance, the 2026 SAR amendment/transition check, and current travel/exclusion publication warnings. It does not certify every provision in the source Acts or any individual case.
 
 ## Verification and maintenance
 See `VERIFICATION.md` for exactly what was tested, and `tests/scenarios.md` for behavioural acceptance cases. Source entry points are in the skill's JSON registry. Review changes in official publications and re-run the scenarios before releasing updates. Never publish private family data in issues or examples.

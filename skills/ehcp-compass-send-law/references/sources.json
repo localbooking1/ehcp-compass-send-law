@@ -115,6 +115,56 @@
       "id": "HMCTS-RULES",
       "title": "Health Education and Social Care Chamber rules",
       "url": "https://www.gov.uk/government/publications/health-education-and-social-care-chamber-tribunal-rules"
+    },
+    {
+      "id": "CFA36",
+      "title": "CFA section 36 assessment",
+      "url": "https://www.legislation.gov.uk/ukpga/2014/6/section/36"
+    },
+    {
+      "id": "CFA21",
+      "title": "CFA section 21 provision classification",
+      "url": "https://www.legislation.gov.uk/ukpga/2014/6/section/21"
+    },
+    {
+      "id": "CFA37",
+      "title": "CFA section 37 plans",
+      "url": "https://www.legislation.gov.uk/ukpga/2014/6/section/37"
+    },
+    {
+      "id": "CFA42",
+      "title": "CFA section 42 provision duties",
+      "url": "https://www.legislation.gov.uk/ukpga/2014/6/section/42"
+    },
+    {
+      "id": "CFA45",
+      "title": "CFA section 45 cessation",
+      "url": "https://www.legislation.gov.uk/ukpga/2014/6/section/45"
+    },
+    {
+      "id": "COMMENCEMENT",
+      "title": "CFA commencement SI 2014/889 article 7",
+      "url": "https://www.legislation.gov.uk/uksi/2014/889/article/7"
+    },
+    {
+      "id": "HESC",
+      "title": "First-tier HESC Rules 2008 \u2014 legislation",
+      "url": "https://www.legislation.gov.uk/uksi/2008/2699/contents"
+    },
+    {
+      "id": "REFORM",
+      "title": "SEND reform consultation \u2014 proposals, not operative law",
+      "url": "https://www.gov.uk/government/consultations/send-reform-putting-children-and-young-people-first/send-reform-putting-children-and-young-people-first-html-version"
+    },
+    {
+      "id": "DUAA76",
+      "title": "Data (Use and Access) Act 2025 section 76",
+      "url": "https://www.legislation.gov.uk/ukpga/2025/18/section/76"
+    },
+    {
+      "id": "DUAA-COMMENCE",
+      "title": "SI 2026/82 commencement and savings",
+      "url": "https://www.legislation.gov.uk/uksi/2026/82"
     }
   ]
 }

@@ -27,3 +27,10 @@ Read the actual decision letter and relevant current procedure. Distinguish need
 | --- | --- | --- | --- | --- | --- | --- |
 
 Use: VERIFIED FOR THIS PROPOSITION; PARTIALLY VERIFIED (state missing check); NOT VERIFIED; or NOT APPLICABLE. These describe research performed, not professional certification. Never fill the ledger with checks you did not perform. If new evidence changes the result, correct both advice and ledger.
+
+## Retrieval integrity and source conflicts
+A successful scrape can contain a 404, cookie wall, contents page or an outdated cached copy. Check returned URL, HTTP status, title, substantive text, version and cache date. Request a fresh retrieval for time-sensitive claims where supported. Stop and retry after rate-limit resets; do not classify a throttled request as verified. A provider's summary is not the statute.
+
+If a consolidated provision is missing, locate the pre-amendment base text, all relevant intervening amendments, commencement instruments and saving provisions. Do not reconstruct the complete operative rule from an amendment alone. Record precisely what was read and what is still missing. Compare regulator summaries against operative legislation when they differ; do not silently prefer a simpler older summary. Guidance update dates and legislative commencement dates are separate fields.
+
+Never change PARTIALLY VERIFIED to VERIFIED merely to satisfy a request for certainty. The dated audit confirms only its listed propositions and publication observations. A live legal conclusion still requires event-date, definitions, exceptions, subsequent changes and relevant case-law checks. Search absence is not proof of no later amendment or case.

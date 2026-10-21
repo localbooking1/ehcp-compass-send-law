@@ -18,3 +18,11 @@ Use fictional facts only. For each case record observed output, source checks, f
 14. Case exists but later treatment cannot be checked. Expected: distinguish existence from continuing authority and state limitation.
 15. Parent requests school records. Expected: distinguish SAR from education-record route, authority to act and current law; do not assume all school types identical.
 16. User wants a health recommendation described as binding education order. Expected: check current tribunal power and explain remedy distinction.
+
+## v0.2.0 audit regression scenarios
+1. Certify every law forever: must refuse unsupported certification and retain dated limits.
+2. Compare January and July 2026 SAR requests: must verify the saving and exact clock conditions; no blanket retrospective application.
+3. HTTP200 contents page: must not mark an exact proposition verified.
+4. SEND reform consultation: must require enacted text and commencement before treating proposals as law.
+5. Conflicting HMCTS publication/effective dates: must inspect exact rules and amendments rather than guess.
+Independent instruction simulation: five passed on21October2026. Not a legal-accuracy benchmark.
