@@ -1,0 +1,232 @@
+[
+  {
+    "id": "CFA",
+    "title": "Children and Families Act 2014",
+    "url": "https://www.legislation.gov.uk/ukpga/2014/6/contents",
+    "http_status": 200,
+    "resolved_url": "https://www.legislation.gov.uk/ukpga/2014/6/contents",
+    "bytes": 213573,
+    "check": "retrieval only; legal effect not certified",
+    "checked_on": "2026-10-21"
+  },
+  {
+    "id": "SEND-REGS",
+    "title": "Special Educational Needs and Disability Regulations 2014",
+    "url": "https://www.legislation.gov.uk/uksi/2014/1530/contents",
+    "http_status": 200,
+    "resolved_url": "https://www.legislation.gov.uk/uksi/2014/1530/contents",
+    "bytes": 65998,
+    "check": "retrieval only; legal effect not certified",
+    "checked_on": "2026-10-21"
+  },
+  {
+    "id": "EDUCATION",
+    "title": "Education Act 1996",
+    "url": "https://www.legislation.gov.uk/ukpga/1996/56/contents",
+    "http_status": 200,
+    "resolved_url": "https://www.legislation.gov.uk/ukpga/1996/56/contents",
+    "bytes": 661258,
+    "check": "retrieval only; legal effect not certified",
+    "checked_on": "2026-10-21"
+  },
+  {
+    "id": "EQUALITY",
+    "title": "Equality Act 2010",
+    "url": "https://www.legislation.gov.uk/ukpga/2010/15/contents",
+    "http_status": 200,
+    "resolved_url": "https://www.legislation.gov.uk/ukpga/2010/15/contents",
+    "bytes": 308720,
+    "check": "retrieval only; legal effect not certified",
+    "checked_on": "2026-10-21"
+  },
+  {
+    "id": "CHILDREN",
+    "title": "Children Act 1989",
+    "url": "https://www.legislation.gov.uk/ukpga/1989/41/contents",
+    "http_status": 200,
+    "resolved_url": "https://www.legislation.gov.uk/ukpga/1989/41/contents",
+    "bytes": 311756,
+    "check": "retrieval only; legal effect not certified",
+    "checked_on": "2026-10-21"
+  },
+  {
+    "id": "CSDPA",
+    "title": "Chronically Sick and Disabled Persons Act 1970",
+    "url": "https://www.legislation.gov.uk/ukpga/1970/44/contents",
+    "http_status": 200,
+    "resolved_url": "https://www.legislation.gov.uk/ukpga/1970/44/contents",
+    "bytes": 39463,
+    "check": "retrieval only; legal effect not certified",
+    "checked_on": "2026-10-21"
+  },
+  {
+    "id": "CARE",
+    "title": "Care Act 2014",
+    "url": "https://www.legislation.gov.uk/ukpga/2014/23/contents",
+    "http_status": 200,
+    "resolved_url": "https://www.legislation.gov.uk/ukpga/2014/23/contents",
+    "bytes": 142186,
+    "check": "retrieval only; legal effect not certified",
+    "checked_on": "2026-10-21"
+  },
+  {
+    "id": "CAPACITY",
+    "title": "Mental Capacity Act 2005",
+    "url": "https://www.legislation.gov.uk/ukpga/2005/9/contents",
+    "http_status": 200,
+    "resolved_url": "https://www.legislation.gov.uk/ukpga/2005/9/contents",
+    "bytes": 279288,
+    "check": "retrieval only; legal effect not certified",
+    "checked_on": "2026-10-21"
+  },
+  {
+    "id": "DPA",
+    "title": "Data Protection Act 2018",
+    "url": "https://www.legislation.gov.uk/ukpga/2018/12/contents",
+    "http_status": 200,
+    "resolved_url": "https://www.legislation.gov.uk/ukpga/2018/12/contents",
+    "bytes": 550856,
+    "check": "retrieval only; legal effect not certified",
+    "checked_on": "2026-10-21"
+  },
+  {
+    "id": "CODE",
+    "title": "SEND Code of Practice publication page",
+    "url": "https://www.gov.uk/government/publications/send-code-of-practice-0-to-25",
+    "http_status": 200,
+    "resolved_url": "https://www.gov.uk/government/publications/send-code-of-practice-0-to-25",
+    "bytes": 78813,
+    "check": "retrieval only; legal effect not certified",
+    "checked_on": "2026-10-21"
+  },
+  {
+    "id": "APPEAL",
+    "title": "Appeal an EHC plan decision",
+    "url": "https://www.gov.uk/appeal-ehc-plan-decision",
+    "http_status": 200,
+    "resolved_url": "https://www.gov.uk/appeal-ehc-plan-decision",
+    "bytes": 99475,
+    "check": "retrieval only; legal effect not certified",
+    "checked_on": "2026-10-21"
+  },
+  {
+    "id": "EXTENDED",
+    "title": "SEND tribunal extended appeals",
+    "url": "https://www.gov.uk/government/publications/extended-powers-send-tribunal-national-trial",
+    "http_status": 200,
+    "resolved_url": "https://www.gov.uk/government/publications/extended-powers-send-tribunal-national-trial",
+    "bytes": 75859,
+    "check": "retrieval only; legal effect not certified",
+    "checked_on": "2026-10-21"
+  },
+  {
+    "id": "UT",
+    "title": "Appeal a SEND Tribunal decision SEND20",
+    "url": "https://www.gov.uk/government/publications/appeal-a-send-tribunal-decision-send20",
+    "http_status": 200,
+    "resolved_url": "https://www.gov.uk/government/publications/appeal-a-send-tribunal-decision-send20",
+    "bytes": 66691,
+    "check": "retrieval only; legal effect not certified",
+    "checked_on": "2026-10-21"
+  },
+  {
+    "id": "TRAVEL",
+    "title": "Home-to-school travel",
+    "url": "https://www.gov.uk/government/publications/home-to-school-travel",
+    "http_status": 200,
+    "resolved_url": "https://www.gov.uk/government/publications/home-to-school-travel",
+    "bytes": 73086,
+    "check": "retrieval only; legal effect not certified",
+    "checked_on": "2026-10-21"
+  },
+  {
+    "id": "POST16",
+    "title": "Post-16 transport",
+    "url": "https://www.gov.uk/government/publications/post-16-transport-to-education-and-training",
+    "http_status": 200,
+    "resolved_url": "https://www.gov.uk/government/publications/post-16-transport-to-education-and-training",
+    "bytes": 72086,
+    "check": "retrieval only; legal effect not certified",
+    "checked_on": "2026-10-21"
+  },
+  {
+    "id": "EXCLUSION",
+    "title": "School suspensions and permanent exclusions",
+    "url": "https://www.gov.uk/government/publications/school-suspensions-and-permanent-exclusions",
+    "http_status": 200,
+    "resolved_url": "https://www.gov.uk/government/publications/school-suspensions-and-permanent-exclusions",
+    "bytes": 82887,
+    "check": "retrieval only; legal effect not certified",
+    "checked_on": "2026-10-21"
+  },
+  {
+    "id": "MEDICAL",
+    "title": "Supporting pupils with medical conditions",
+    "url": "https://www.gov.uk/government/publications/supporting-pupils-at-school-with-medical-conditions--3",
+    "http_status": 200,
+    "resolved_url": "https://www.gov.uk/government/publications/supporting-pupils-at-school-with-medical-conditions--3",
+    "bytes": 78829,
+    "check": "retrieval only; legal effect not certified",
+    "checked_on": "2026-10-21"
+  },
+  {
+    "id": "ICO",
+    "title": "ICO education information",
+    "url": "https://ico.org.uk/for-organisations/uk-gdpr-guidance-and-resources/individual-rights/right-of-access/education-information/",
+    "http_status": 200,
+    "resolved_url": "https://ico.org.uk/for-organisations/uk-gdpr-guidance-and-resources/individual-rights/right-of-access/education-information/",
+    "bytes": 58355,
+    "check": "retrieval only; legal effect not certified",
+    "checked_on": "2026-10-21"
+  },
+  {
+    "id": "JR",
+    "title": "Civil Procedure Rules Part 54",
+    "url": "https://www.justice.gov.uk/courts/procedure-rules/civil/rules/part54",
+    "http_status": 200,
+    "resolved_url": "https://www.justice.gov.uk/courts/procedure-rules/civil/rules/part54",
+    "bytes": 117166,
+    "check": "retrieval only; legal effect not certified",
+    "checked_on": "2026-10-21"
+  },
+  {
+    "id": "JR-PROTOCOL",
+    "title": "Pre-action protocol for judicial review",
+    "url": "https://www.justice.gov.uk/courts/procedure-rules/civil/protocol/prot_jrv",
+    "http_status": 200,
+    "resolved_url": "https://www.justice.gov.uk/courts/procedure-rules/civil/protocol/prot_jrv",
+    "bytes": 103711,
+    "check": "retrieval only; legal effect not certified",
+    "checked_on": "2026-10-21"
+  },
+  {
+    "id": "CASELAW",
+    "title": "The National Archives Find Case Law",
+    "url": "https://caselaw.nationalarchives.gov.uk/",
+    "http_status": 200,
+    "resolved_url": "https://caselaw.nationalarchives.gov.uk/",
+    "bytes": 23455,
+    "check": "retrieval only; legal effect not certified",
+    "checked_on": "2026-10-21"
+  },
+  {
+    "id": "LGO",
+    "title": "Local Government and Social Care Ombudsman",
+    "url": "https://www.lgo.org.uk/",
+    "http_status": 200,
+    "resolved_url": "https://www.lgo.org.uk/",
+    "bytes": 53357,
+    "check": "retrieval only; legal effect not certified",
+    "checked_on": "2026-10-21"
+  },
+  {
+    "id": "HMCTS-RULES",
+    "title": "Health Education and Social Care Chamber rules",
+    "url": "https://www.gov.uk/government/publications/health-education-and-social-care-chamber-tribunal-rules",
+    "check": "retrieval only; legal effect not certified",
+    "checked_on": "2026-10-21",
+    "http_status": 200,
+    "resolved_url": "https://www.gov.uk/government/publications/health-education-and-social-care-chamber-tribunal-rules",
+    "bytes": 70655
+  }
+]

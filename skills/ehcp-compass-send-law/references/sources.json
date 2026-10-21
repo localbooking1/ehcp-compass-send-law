@@ -1,0 +1,120 @@
+{
+  "purpose": "Official research entry points. Reachability is not verification of legal effect. Retrieve exact current provisions at use time.",
+  "sources": [
+    {
+      "id": "CFA",
+      "title": "Children and Families Act 2014",
+      "url": "https://www.legislation.gov.uk/ukpga/2014/6/contents"
+    },
+    {
+      "id": "SEND-REGS",
+      "title": "Special Educational Needs and Disability Regulations 2014",
+      "url": "https://www.legislation.gov.uk/uksi/2014/1530/contents"
+    },
+    {
+      "id": "EDUCATION",
+      "title": "Education Act 1996",
+      "url": "https://www.legislation.gov.uk/ukpga/1996/56/contents"
+    },
+    {
+      "id": "EQUALITY",
+      "title": "Equality Act 2010",
+      "url": "https://www.legislation.gov.uk/ukpga/2010/15/contents"
+    },
+    {
+      "id": "CHILDREN",
+      "title": "Children Act 1989",
+      "url": "https://www.legislation.gov.uk/ukpga/1989/41/contents"
+    },
+    {
+      "id": "CSDPA",
+      "title": "Chronically Sick and Disabled Persons Act 1970",
+      "url": "https://www.legislation.gov.uk/ukpga/1970/44/contents"
+    },
+    {
+      "id": "CARE",
+      "title": "Care Act 2014",
+      "url": "https://www.legislation.gov.uk/ukpga/2014/23/contents"
+    },
+    {
+      "id": "CAPACITY",
+      "title": "Mental Capacity Act 2005",
+      "url": "https://www.legislation.gov.uk/ukpga/2005/9/contents"
+    },
+    {
+      "id": "DPA",
+      "title": "Data Protection Act 2018",
+      "url": "https://www.legislation.gov.uk/ukpga/2018/12/contents"
+    },
+    {
+      "id": "CODE",
+      "title": "SEND Code of Practice publication page",
+      "url": "https://www.gov.uk/government/publications/send-code-of-practice-0-to-25"
+    },
+    {
+      "id": "APPEAL",
+      "title": "Appeal an EHC plan decision",
+      "url": "https://www.gov.uk/appeal-ehc-plan-decision"
+    },
+    {
+      "id": "EXTENDED",
+      "title": "SEND tribunal extended appeals",
+      "url": "https://www.gov.uk/government/publications/extended-powers-send-tribunal-national-trial"
+    },
+    {
+      "id": "UT",
+      "title": "Appeal a SEND Tribunal decision SEND20",
+      "url": "https://www.gov.uk/government/publications/appeal-a-send-tribunal-decision-send20"
+    },
+    {
+      "id": "TRAVEL",
+      "title": "Home-to-school travel",
+      "url": "https://www.gov.uk/government/publications/home-to-school-travel"
+    },
+    {
+      "id": "POST16",
+      "title": "Post-16 transport",
+      "url": "https://www.gov.uk/government/publications/post-16-transport-to-education-and-training"
+    },
+    {
+      "id": "EXCLUSION",
+      "title": "School suspensions and permanent exclusions",
+      "url": "https://www.gov.uk/government/publications/school-suspensions-and-permanent-exclusions"
+    },
+    {
+      "id": "MEDICAL",
+      "title": "Supporting pupils with medical conditions",
+      "url": "https://www.gov.uk/government/publications/supporting-pupils-at-school-with-medical-conditions--3"
+    },
+    {
+      "id": "ICO",
+      "title": "ICO education information",
+      "url": "https://ico.org.uk/for-organisations/uk-gdpr-guidance-and-resources/individual-rights/right-of-access/education-information/"
+    },
+    {
+      "id": "JR",
+      "title": "Civil Procedure Rules Part 54",
+      "url": "https://www.justice.gov.uk/courts/procedure-rules/civil/rules/part54"
+    },
+    {
+      "id": "JR-PROTOCOL",
+      "title": "Pre-action protocol for judicial review",
+      "url": "https://www.justice.gov.uk/courts/procedure-rules/civil/protocol/prot_jrv"
+    },
+    {
+      "id": "CASELAW",
+      "title": "The National Archives Find Case Law",
+      "url": "https://caselaw.nationalarchives.gov.uk/"
+    },
+    {
+      "id": "LGO",
+      "title": "Local Government and Social Care Ombudsman",
+      "url": "https://www.lgo.org.uk/"
+    },
+    {
+      "id": "HMCTS-RULES",
+      "title": "Health Education and Social Care Chamber rules",
+      "url": "https://www.gov.uk/government/publications/health-education-and-social-care-chamber-tribunal-rules"
+    }
+  ]
+}
